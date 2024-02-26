@@ -1,0 +1,22 @@
+#profile_pic {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.zoom-container {
+    overflow: hidden;
+}
+
+#research {
+    background-color: #EEEEEE;
+}
+
+#timeline {
+    background-color: #EEEEEE;
+}
+
+div {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
