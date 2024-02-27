@@ -20,3 +20,31 @@ div {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+h4 {
+    color: grey;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-nav {
+    padding: 20px;
+}
+
+#links {
+    margin: 0px;
+}
+
+@media screen and (max-width: 600px) {
+    /* Change the flex direction to column when screen width is below 600px */
+    #header {
+      flex-direction: column; /* Flex items are laid out vertically */
+    }
+    .header-nav{
+        padding-left: 0px;
+    }
+  }
