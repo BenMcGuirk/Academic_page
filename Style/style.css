@@ -47,4 +47,16 @@ div {
     .header-nav{
         padding-left: 0px;
     }
+    #header-text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #secondary{
+        text-align: center;
+    }
+    .nav-links{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
   }
