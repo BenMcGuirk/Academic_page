@@ -45,10 +45,6 @@ div {
     margin-right: 10px;
 }
 
-.cv-flex{
-    display: flex;
-}
-
 @media screen and (max-width: 600px) {
     /* Change the flex direction to column when screen width is below 600px */
     #header {
