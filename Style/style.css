@@ -8,6 +8,10 @@
     overflow: hidden;
 }
 
+#cv {
+    text-decoration: none;
+}
+
 #research {
     background-color: #EEEEEE;
 }
