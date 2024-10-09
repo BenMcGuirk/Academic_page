@@ -50,6 +50,12 @@ div {
     margin-right: 10px;
 }
 
+.qmul-logo{
+    height: 35px;
+    width: 40px;
+    margin-right: 10px;
+}
+
 @media screen and (max-width: 600px) {
     /* Change the flex direction to column when screen width is below 600px */
     #header {
