@@ -1,2 +1,2 @@
 # Academic Website
-[Link](benmcguirk.github.io/)
+[benmcguirk.github.io/](benmcguirk.github.io/)
